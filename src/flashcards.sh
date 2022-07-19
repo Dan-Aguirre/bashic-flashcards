@@ -7,8 +7,8 @@ answersFile="";
 printHelp () {
     echo "Usage: $0 -q [questions file] -a [answers file]";
     echo;
-    echo "Randomly presents a question, then when enter is pressed, displays answer,"
-    echo "cycling though until all questions have been asked."
+    echo "Randomly presents a question, then when enter is pressed, displays answer,";
+    echo "cycling though until all questions have been asked.";
     echo;
     echo "Options:";
     echo -e "  -h \t\t\t print help";
