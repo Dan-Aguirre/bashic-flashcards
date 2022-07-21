@@ -4,7 +4,7 @@
 Basic bash flashcard app
 
 A small and simple flashcard app written in bash, takes a questions file and an answers file, randomly presents a question, then when enter is pressed, displays answer,
-cycling though until all questions have been asked. Written to help me study acronyms for CompTIA.
+cycling though until all questions have been asked. Written to help me study for CompTIA.
 
 ## Requirements
 This program uses a `Bash` shell
